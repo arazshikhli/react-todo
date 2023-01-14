@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/arazshikhli.github.io/react-todo/static/css/main.2b615f78.css",
+    "main.js": "/arazshikhli.github.io/react-todo/static/js/main.36253f1d.js",
+    "static/css/952.97f9910b.chunk.css": "/arazshikhli.github.io/react-todo/static/css/952.97f9910b.chunk.css",
+    "static/js/952.3acac86c.chunk.js": "/arazshikhli.github.io/react-todo/static/js/952.3acac86c.chunk.js",
+    "static/js/787.2843ca88.chunk.js": "/arazshikhli.github.io/react-todo/static/js/787.2843ca88.chunk.js",
+    "index.html": "/arazshikhli.github.io/react-todo/index.html",
+    "main.2b615f78.css.map": "/arazshikhli.github.io/react-todo/static/css/main.2b615f78.css.map",
+    "main.36253f1d.js.map": "/arazshikhli.github.io/react-todo/static/js/main.36253f1d.js.map",
+    "952.97f9910b.chunk.css.map": "/arazshikhli.github.io/react-todo/static/css/952.97f9910b.chunk.css.map",
+    "952.3acac86c.chunk.js.map": "/arazshikhli.github.io/react-todo/static/js/952.3acac86c.chunk.js.map",
+    "787.2843ca88.chunk.js.map": "/arazshikhli.github.io/react-todo/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b615f78.css",
+    "static/js/main.36253f1d.js"
+  ]
+}
